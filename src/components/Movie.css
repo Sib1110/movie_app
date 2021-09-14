@@ -1,0 +1,21 @@
+.movie {
+  box-shadow: 5px 5px 11px teal;
+  border-radius: 7px;
+  margin: 20px;
+}
+
+.movie img {
+  margin-left: 10px;
+  box-shadow: 5px 5px 10px gray;
+  position: relative;
+  top: -15px;
+  width: 300px;
+}
+
+.movie .movie_data {
+  margin: 10px;
+  color: gray;
+}
+.movie .movie_title {
+  font-size: 25px;
+}
